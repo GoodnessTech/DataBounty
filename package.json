@@ -1,0 +1,20 @@
+{
+  "name": "databounty-contracts",
+  "version": "1.0.0",
+  "description": "DataBounty protocol smart contracts, gas optimizations, and deployment on BOT Chain Mainnet",
+  "private": true,
+  "scripts": {
+    "build": "cd \"DataBounty Frontend\" && npm install && npm run build",
+    "build:frontend": "cd \"DataBounty Frontend\" && npm install && npm run build",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "preflight": "node scripts/preflight.js",
+    "deploy:mainnet": "hardhat run scripts/deploy.js --network botchain"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.18"
+  }
+}

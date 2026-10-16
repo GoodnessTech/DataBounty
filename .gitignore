@@ -1,0 +1,33 @@
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.env
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+*.pem
+*.key
+
+# Node & dependencies
+node_modules/
+package-lock.json
+
+# Hardhat & contracts build artifacts
+artifacts/
+cache/
+typechain/
+typechain-types/
+
+# Frontend build
+dist/
+dist-ssr/
+*.local
+
+# Logs & temp
+*.log
+scratch/
+.system_generated/
+.DS_Store
+Thumbs.db

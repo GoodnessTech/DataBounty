@@ -1729,7 +1729,7 @@ function Footer({ navigate }: { navigate: (path: string) => void }) {
 
         {/* Clickable links to official BOT Chain and BOTScan */}
         <a
-          href="https://dev-docs.botchain.ai/docs/Developers/quick-guide/"
+          href="https://botchain.ai"
           target="_blank"
           rel="noopener noreferrer"
         >

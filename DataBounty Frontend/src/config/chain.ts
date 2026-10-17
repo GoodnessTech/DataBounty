@@ -10,6 +10,7 @@ export const BOT_CHAIN_CONFIG = {
   },
   rpcUrl: "https://rpc.botchain.ai",
   explorerUrl: "https://scan.botchain.ai",
+  websiteUrl: "https://botchain.ai",
   documentationUrl: "https://dev-docs.botchain.ai/docs/Developers/quick-guide/",
   contractAddress: "0xcB74535569cE34da878bC1Ac76d6f6B8e62bF994",
   deploymentTxHash: "0x1e48236e0a622483c321f5c73a9ab0e298961c9573d00a8450a36ba39ba609cc",

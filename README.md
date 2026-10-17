@@ -11,6 +11,7 @@ DataBounty is an onchain data marketplace and usage-billing protocol deployed di
 - **Native Currency:** `BOT` (18 decimals)
 - **RPC Endpoint:** `https://rpc.botchain.ai`
 - **Explorer:** `https://scan.botchain.ai`
+- **Official Website:** `https://botchain.ai`
 - **Documentation:** `https://dev-docs.botchain.ai/docs/Developers/quick-guide/`
 - **DataBountyCore Contract Address:** [`0xcB74535569cE34da878bC1Ac76d6f6B8e62bF994`](https://scan.botchain.ai/address/0xcB74535569cE34da878bC1Ac76d6f6B8e62bF994)
 - **Deployment Transaction Hash:** [`0x1e48236e0a622483c321f5c73a9ab0e298961c9573d00a8450a36ba39ba609cc`](https://scan.botchain.ai/tx/0x1e48236e0a622483c321f5c73a9ab0e298961c9573d00a8450a36ba39ba609cc)
